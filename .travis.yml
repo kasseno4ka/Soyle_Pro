@@ -1,0 +1,9 @@
+# Maintainer : Nguyễn Văn Phi | gunguiuet@gmail.com
+sudo: required
+language: node_js
+
+install:
+  - curl https://install.meteor.com/ | sh
+  - meteor npm install
+
+      
