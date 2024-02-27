@@ -1,13 +1,9 @@
-# Duolingo clone 
+# Soyle Pro
 [![Build Status](https://travis-ci.org/gungui98/Duolingo_clone.svg?branch=master)](https://travis-ci.org/gungui98/Duolingo_clone)
 
-A clone version of duolingo. For final project of software engineering from team 3
-
 Team 3's members:
-* Nguyễn Văn Phi
-* Trần Văn Thắng
-* Hoàng Văn Thắng
-* Nguyễn Minh Tâm
+* Kassen Ilyas
+* Daria Kachurovskaya
 
 ## Getting started 
 These are instructions to making development environment required for the project
